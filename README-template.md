@@ -25,7 +25,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Useful resources
 
-- [Mr Coder](https://www.youtube.com/watch?v=9aDqk7jUMZQ&t=882s&ab_channel=MrCoder) - This helped me for making grids and responsiveness.
+- [Mr Coder](https://www.youtube.com/@MrCoderYt) - This helped me for making grids and responsiveness.
 
 
 ## Author
