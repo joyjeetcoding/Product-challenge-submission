@@ -12,7 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Click Here](https://joyjeetcoding.github.io/product-challenge-link.github.io/)
 
 
